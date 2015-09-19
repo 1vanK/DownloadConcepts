@@ -10,4 +10,4 @@ http://conceptguns.blogspot.com<br>
 http://conceptfish.blogspot.com<br>
 http://concepttanks.blogspot.com<br>
 
-Для статьи http://ru.blender.wikia.com/wiki/Техника
+Для статьи http://ru.blender.wikia.com/wiki/Концепты_техники
